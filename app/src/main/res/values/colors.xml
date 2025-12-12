@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="purple_50">#F3E5F5</color>     <!-- Ungu sangat lembut -->
+    <color name="purple_200">#CE93D8</color>    <!-- Ungu medium -->
+    <color name="purple_500">#9C27B0</color>    <!-- Ungu utama -->
+    <color name="purple_700">#7B1FA2</color>    <!-- Ungu lebih gelap -->
+</resources>

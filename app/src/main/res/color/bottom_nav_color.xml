@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Warna saat item navigasi dipilih -->
+    <item android:state_checked="true" android:color="#0D47A1" />
+
+    <!-- Warna default untuk item navigasi -->
+    <item android:color="#757575" />
+</selector>
